@@ -1,0 +1,1 @@
+ML is used in many industries and business activities, including customer service, data analysis, and financial services. For example, a financial institution might use ML to classify transactions as fraudulent or genuine.
